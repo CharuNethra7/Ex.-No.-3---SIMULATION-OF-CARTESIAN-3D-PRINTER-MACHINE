@@ -60,8 +60,19 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![op1](https://github.com/user-attachments/assets/ec1b58d2-8247-4e93-9b35-71086ae08ea5)
+
+![op2](https://github.com/user-attachments/assets/88f8e738-b198-4cfd-b464-da813057be21)
+
+![op3](https://github.com/user-attachments/assets/a23245ae-ab4a-44c3-a34a-92d595372c7f)
+
+![op4](https://github.com/user-attachments/assets/992c02c1-eda0-4b46-ac2c-a631dae4afeb)
+
+![op5](https://github.com/user-attachments/assets/63658171-21fa-4990-8cfd-08ba8f00a467)
+
+
+### Name: CHARU NETHRA R
+### Register Number: 212223230035
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
